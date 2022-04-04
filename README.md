@@ -1,4 +1,4 @@
-# Lindsey Alcinay CV
+# Lindsey Alcinay Resume Website 
 
 [![GitHub stars](https://img.shields.io/github/stars/Lcw900/Linsdsey-Alcinay-CV.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Lcw900/Linsdsey-Alcinay-CV) [![GitHub forks](https://img.shields.io/github/forks/Lcw900/Linsdsey-Alcinay-CV.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Lcw900/Linsdsey-Alcinay-CV)
 
